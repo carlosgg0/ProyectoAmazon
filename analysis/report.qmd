@@ -17,3 +17,10 @@ la gigante tecnológica **Amazon**.
 
 # Bloque 1: Análisis de Componentes Principales (PCA)
 
+```{r}
+#| message: false
+library(data.table)
+
+data_path <- "../data/raw/Reviews.csv"
+```
+
