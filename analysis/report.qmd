@@ -1,0 +1,19 @@
+---
+title: "Análisis de las relaciones entre productos y usuarios de Amazon"
+author: "Carlos García Guzmán"
+date: "15/04/2026"
+format:
+  pdf: 
+    toc: true
+  html:
+    theme: 
+      - cosmo
+---
+
+En este documento se realiza un análisis extensivo del *dataset* 
+[Amazon Product Reviews](https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews)
+con el fin de entender la relación existente entre los productos y usuarios en 
+la gigante tecnológica **Amazon**.
+
+# Bloque 1: Análisis de Componentes Principales (PCA)
+
