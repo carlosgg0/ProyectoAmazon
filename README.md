@@ -42,6 +42,7 @@ funciones.
 Para replicar el análisis: 
 1. Clonar este repositorio. 
 2. Abrir el archivo `ProyectoAmazon.Rproj` en RStudio. 
-3. Asegurarse de que el dataset original esté en `data/raw/`. 
+3. Ejecutar el script `scripts/download_dataset.R` que descarga el .csv con el 
+dataset inicial y lo situa en `data/raw`. 
 4. Renderizar el archivo `analisis/proyecto_final.qmd`.
 
